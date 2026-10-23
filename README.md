@@ -8,6 +8,15 @@ Research interests: large language models, multimodal large language models, and
 
 Email: 22632084@zju.edu.cn
 
+## Education
+
+- 2026–Present: Master's studies in Electronic Information, College of Control Science and Engineering, Zhejiang University.
+- 2022–2026: Bachelor's degree in Automation, College of Control Science and Engineering, Zhejiang University.
+
+## Live website
+
+https://oil-22.github.io/hongze-wang-homepage/
+
 ## Preview
 
 Open `index.html` in a browser. This English-only, responsive website has no build step or external dependencies.
